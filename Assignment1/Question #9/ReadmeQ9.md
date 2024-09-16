@@ -1,1 +1,6 @@
-![image](https://github.com/user-attachments/assets/3018ed70-a889-4b06-b4e6-7776514abe84)
+# Question #9 Exact Age in days, months, and years from DOB
+
+> This folder contains the JPG files of the following:
+> <br>**IPO** of Q9
+> <br>**Flowchart** of Q9
+> <br>**Pseudocode** of Q9
