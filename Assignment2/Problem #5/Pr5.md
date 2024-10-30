@@ -1,4 +1,5 @@
-You are tasked with creating a program that generates a histogram based on user input. The user will
+# Problem #5
+> You are tasked with creating a program that generates a histogram based on user input. The user will
 provide a set of values, and your program will use loops to create a visual representation of these values.
 1. Input Handling: Write a function that takes an array of integers (the values) and the count of
 those integers as input.
